@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../220714-184807-esp32dev"
+		},
+		{
+			"name": "Temperature Lights",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"system_error": "cpp"
+		}
+	}
+}
